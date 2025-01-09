@@ -17,8 +17,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/recipe-page-MMqtwYYDYy)
-- Live Site URL: [Add live site URL here](https://recipe-page-rouge-alpha.vercel.app)
+- Solution URL: [Frontend Mentor ↗](https://www.frontendmentor.io/solutions/recipe-page-MMqtwYYDYy)
+- Live Site URL: [Open on Vercel ↗](https://recipe-page-rouge-alpha.vercel.app)
 
 ## Built with
 
