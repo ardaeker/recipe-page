@@ -34,12 +34,11 @@ export const metadata: Metadata = {
     'Tailwind CSS',
     'TypeScript',
   ],
-  metadataBase: new URL('https://recipe-page-rouge-alpha.vercel.app'),
+  metadataBase: new URL('https://recipe-page-rouge-alpha.vercel.app/'),
   openGraph: {
     title: 'Frontend Mentor - Simple Omelette Recipe',
     description:
       'This website is a solution to the Recipe page challenge on Frontend Mentor. It is built with Next.js, Tailwind CSS, and TypeScript.',
-    url: 'https://recipe-page-rouge-alpha.vercel.app',
     siteName: 'Frontend Mentor - Recipe page solution',
     images: [
       {
