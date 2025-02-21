@@ -20,9 +20,9 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  title: 'Frontend Mentor - Simple Omelette Recipe',
+  title: 'Arda Eker - Simple Omelette Recipe',
   description:
-    'This website is a solution to the Recipe page challenge on Frontend Mentor. It is built with Next.js, Tailwind CSS, and TypeScript. Coded by Arda Eker.',
+    'A fully tested, accessible recipe page with responsive layout and SEO improvements.',
   authors: [{ name: 'Arda Eker', url: 'https://github.com/ardaeker' }],
   keywords: [
     'Frontend Mentor',
@@ -36,10 +36,10 @@ export const metadata: Metadata = {
   ],
   metadataBase: new URL('https://recipe-page-rouge-alpha.vercel.app/'),
   openGraph: {
-    title: 'Frontend Mentor - Simple Omelette Recipe',
+    title: 'Arda Eker - Simple Omelette Recipe',
     description:
-      'This website is a solution to the Recipe page challenge on Frontend Mentor. It is built with Next.js, Tailwind CSS, and TypeScript.',
-    siteName: 'Frontend Mentor - Recipe page solution',
+      'A fully tested, accessible recipe page with responsive layout and SEO improvements.',
+    siteName: 'Arda Eker - Recipe page solution',
     images: [
       {
         url: 'image-omelette.jpeg',
@@ -48,9 +48,6 @@ export const metadata: Metadata = {
   },
   alternates: {
     canonical: 'https://recipe-page-rouge-alpha.vercel.app',
-  },
-  icons: {
-    icon: '/icon.png',
   },
 };
 
